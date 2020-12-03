@@ -24,7 +24,7 @@
   <a href="https://www.linkedin.com/in/marcos-nascimento-7525181b5/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=" /></a>
 
-  <a href="https://api.whatsapp.com/send?phone=7999401494&text=Ol%C3%A1%20Marcos,%20tudo%20bem?" alt="WhatsApp">
+  <a href="https://api.whatsapp.com/send?phone=557999401494&text=Ol%C3%A1%20Marcos,%20tudo%20bem?" alt="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="/></a>
 
   <a href="https://www.facebook.com/profile.php?id=100024783113441" alt="Facebook">
