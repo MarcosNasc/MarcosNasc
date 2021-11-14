@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Marcos Nascimento eu sou <strong>Analista de Desenvolvimento de Sistemas</strong>.<br>
+  Olá meu nome é Marcos Nascimento sou <strong>Analista de Desenvolvimento de Sistemas</strong>.<br>
 </p>
 
 <p align="left">
