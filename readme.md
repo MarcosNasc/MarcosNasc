@@ -1,12 +1,11 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá meu nome é Marcos Nascimento eu sou <strong>Desenvolvedor web</strong>.<br>
-  Estou aprendendo a linguagem C# para me tornar um desenvolvedoer .NET
+  Olá meu nome é Marcos Nascimento eu sou <strong>Analista de Desenvolvimento de Sistemas</strong>.<br>
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5,CSS3,JavaScript,PHP,SQL,C#</strong>
+  🦄 Linguagens: <strong>HTML5,CSS3,JavaScript,C#,T-SQL</strong>
 </p>
 
 <p align="left">
