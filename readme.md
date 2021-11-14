@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, Visual Studio code, Git </strong>
+  💼 Ferramentas: <strong>Visual Studio, Visual Studio code, Git , SQL SERVER , Postman  </strong>
 </p>
 
 <p align="left">
