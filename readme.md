@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>HTML5,CSS3,JavaScript,C#,T-SQL</strong>
+  💼 Tecnologias: <strong>HTML5,CSS3,JavaScript,C#,T-SQL</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>Visual Studio, Visual Studio code, Git , SQL SERVER , Postman  </strong>
+  🧰 Ferramentas: <strong>Visual Studio, Visual Studio code, Git , SQL SERVER , Postman  </strong>
 </p>
 
 <p align="left">
